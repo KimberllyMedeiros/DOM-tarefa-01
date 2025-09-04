@@ -1,0 +1,56 @@
+.box{
+    background-color: #ac7adb;
+    border: solid, 2px, hsl(271, 41%, 45%);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+   margin: 10px;
+
+    
+}
+.box2{
+    background-color: #ac7adb;
+    border: solid, 2px, hsl(271, 41%, 45%);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+   margin: 10px;
+
+    
+}
+.box3{
+    background-color: #ac7adb;
+    border: solid, 2px, hsl(271, 41%, 45%);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+   margin: 10px;
+
+    
+}
+.box4{
+    background-color: #ac7adb;
+    border: solid, 2px, hsl(271, 41%, 45%);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+   margin: 10px;
+
+    
+}
+
+.but{
+    background-color: hsl(271, 57%, 77%);
+    border: solid, 2px, oklab(60.06% 0.0929 -0.12814);
+
+
+}
+.sectionn{
+    display: flex;
+    justify-content: center;
+
+}
