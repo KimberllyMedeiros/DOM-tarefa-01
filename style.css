@@ -10,8 +10,8 @@
     
 }
 .box2{
-    background-color: #ac7adb;
-    border: solid, 2px, hsl(271, 41%, 45%);
+    background-color: lch(85.27% 85.72 91.93);
+    border: solid, 2px, hwb(51 0% 13%);
     border-radius: 10px;
     width: 150px;
     height: 100px;
@@ -20,8 +20,8 @@
 
     
 }
-.box3{
-    background-color: #ac7adb;
+.box1{
+    background-color: hwb(271 33% 41%);
     border: solid, 2px, hsl(271, 41%, 45%);
     border-radius: 10px;
     width: 150px;
@@ -32,7 +32,7 @@
     
 }
 .box4{
-    background-color: #ac7adb;
+    background-color: hsl(270, 26%, 48%);
     border: solid, 2px, hsl(271, 41%, 45%);
     border-radius: 10px;
     width: 150px;
@@ -52,5 +52,21 @@
 .sectionn{
     display: flex;
     justify-content: center;
+
+}
+.box3{
+    background-color: hsl(271, 25%, 48%);
+    border: solid, 2px, hsl(271, 41%, 45%);
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+   margin: 10px;
+
+    
+}
+.but2{
+    background-color: hwb(0 0% 25%);
+    border: solid, 2px, #4b0000;
 
 }
